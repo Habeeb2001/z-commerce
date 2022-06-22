@@ -1,0 +1,24 @@
+/* product details */
+.details{
+    height: 100%;
+    width: inherit;
+    display: flexbox;
+    display: flex;
+    display: flexbox;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 30px; */
+}
+ .product_image{
+    flex: 2 1 60rem;
+}
+.product_details{
+    flex: 1 1 30rem;
+}
+.cart{
+
+    flex: 1 1 30rem;
+}
